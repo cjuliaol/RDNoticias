@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RDNoticias</string>
+    <string name="action_settings">Settings</string>
+    <string name="news_title">Title</string>
+    <string name="news_text">Text</string>
+    <string name="type">Type</string>
+    <string name="fact_date">Date</string>
+    <string name="news_type">Type</string>
+    <string name="edit_news_title">Type title here</string>
+    <string name="edit_news_text">Type text here</string>
+    <string name="edit_news_type">Select type here</string>
+</resources>
